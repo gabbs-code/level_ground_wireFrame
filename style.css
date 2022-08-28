@@ -48,7 +48,7 @@ nav ul li button {
     display:inline-block;
     margin-left: 90%;
     background-color: white;
-    color: rgb(106,117,136);;
+    color: rgb(106,117,136);
     border: none;
     padding: .5em;
     font-size: 1.2rem;
@@ -91,7 +91,7 @@ h1{
     font-size: 1.4rem ;
     letter-spacing: 2.4px;
     position: relative;
-    left: 41%;
+    left: 42%;
 }
 
 .fa-2x{
@@ -266,3 +266,4 @@ hr {
     left: 3.5em;
     transform: translateY(-10px);
 }
+
